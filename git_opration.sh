@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# -f file-name commnit-message(2 args)
+
 # function must be  in the top
 function git_commands()
 {
